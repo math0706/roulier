@@ -43,7 +43,7 @@ ADDRESS_MAPPING = {
     "T864": "city",
     "T100": "country",
     "T758": "phone",
-    "T871": "mobile",
+    "T759": "mobile",
     "T1229": "email",
 }
 
